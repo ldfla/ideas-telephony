@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-IdeasTelephonyApplication<ideas-telephony>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "la.ldf.ideastelephony.IdeasTelephonyApplication",
+            "projectName": "ideas-telephony",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

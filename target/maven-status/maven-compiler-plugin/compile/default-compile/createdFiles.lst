@@ -1,0 +1,6 @@
+la/ldf/ideastelephony/SIPListener.class
+la/ldf/ideastelephony/entity/SipEvent.class
+la/ldf/ideastelephony/repository/SipEventRepository.class
+la/ldf/ideastelephony/entity/SipEventId.class
+la/ldf/ideastelephony/IdeasTelephonyApplication.class
+la/ldf/ideastelephony/HttpController.class
